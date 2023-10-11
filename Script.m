@@ -1,3 +1,5 @@
+clear all;
+clc;
 % Given Parameters
 syms t4 t5 t6 t7 t8 t9 t10;
 [kxx, kyy] = deal(45);
