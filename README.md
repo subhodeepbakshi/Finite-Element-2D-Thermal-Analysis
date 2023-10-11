@@ -20,7 +20,7 @@ This repository contains a MATLAB-based finite element code for a 2D thermal pro
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   https://github.com/subhodeepbakshi/Finite-Element-2D-Thermal-Analysis.git
    ```
 
 2. Open MATLAB and run the finite element analysis script.
